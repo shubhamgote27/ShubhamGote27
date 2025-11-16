@@ -53,8 +53,8 @@ I use GitHub to document my **learning journey**, **AI-assisted projects**, and 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/quarkxpress-2017.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/FontForge_icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Quark_logo_2017.svg" width="40" height="40" alt="QuarkXPress logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/FontForge_Logo%2C_2015.svg" width="40" height="40" alt="FontForge logo"/>
 </p>
 
 ---
