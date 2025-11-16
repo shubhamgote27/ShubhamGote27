@@ -74,6 +74,8 @@ I use GitHub to document my **learning journey**, **AI-assisted projects**, and 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamgote27&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgote27&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
